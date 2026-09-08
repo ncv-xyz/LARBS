@@ -18,7 +18,7 @@ optional dependencies.
 
 - <kbd>h</kbd>, <kbd>j</kbd>, <kbd>k</kbd>, <kbd>l</kbd> -- move left/down/up/right in document.
 - <kbd>d</kbd>/<kbd>u</kbd> -- down/up half a page.
-- <kbd>gg</kbd>/<kbd>G</kbd> -- top/bottom of document.
+- <kbd>g</kbd>/<kbd>G</kbd> -- top/bottom of document.
 - <kbd>f</kbd> -- highlight URLS to follow.
 - <kbd>J</kbd>/<kbd>K</kbd> -- zoom out/in.
 - <kbd>s</kbd>/<kbd>a</kbd> -- zoom to fit width/height.
