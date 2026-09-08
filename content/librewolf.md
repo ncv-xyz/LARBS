@@ -28,6 +28,6 @@ Several add-ons come installed by default.
 Note that they can be immediately enabled by the user in the top right corner, but might not come enabled.
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) -- ad-blocker.
-- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) -- third-party tracking protection.
+- [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) -- third-party tracking protection.
 - [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) -- removes those stupid cookie notifications that the EU forced on us.
-- [Vim Vixen](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/) -- vim key-bindings.
+- [Tridactyl](https://addons.mozilla.org/en-US/firefox/addon/tridactyl-vim/) -- vim key-bindings.
